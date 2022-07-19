@@ -1,0 +1,20 @@
+/*select by class*/
+.odd {
+    background-color: #faa5a6;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.last {
+    background-color: #81ff80;
+    font-weight: bold;
+}
+
+/*select by id*/
+#second {
+    color: #2c2adb;
+    font-size: 36px;
+}
