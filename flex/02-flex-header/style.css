@@ -1,7 +1,17 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+
+.navigation{
+  display: flex;
+  gap:20px;
+  padding: 15px;
+} 
 
 .logo {
   font-size: 48px;
@@ -15,7 +25,6 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
 }
-
 a {
   font-size: 22px;
   background: white;
